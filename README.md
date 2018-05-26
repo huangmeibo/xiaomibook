@@ -37,17 +37,18 @@ gulp
 - [x]  页面之间的跳转
 
 ### 登录
-(https://huangmeibo.github.io/xiaomibook/img/d.png)
+![image](https://huangmeibo.github.io/xiaomibook/img/d.png)
 
 ### 主页面
-(https://huangmeibo.github.io/xiaomibook/img/a.jpg)
-(https://huangmeibo.github.io/xiaomibook/img/b.png)
+![image](https://huangmeibo.github.io/xiaomibook/img/a.jpg)
+
+![image](https://huangmeibo.github.io/xiaomibook/img/b.png)
 
 ### 详情页
-(https://huangmeibo.github.io/xiaomibook/img/c.png)
+![image](https://huangmeibo.github.io/xiaomibook/img/c.png)
 
 ### 阅读页
-(https://huangmeibo.github.io/xiaomibook/img/e.png)
+![image](https://huangmeibo.github.io/xiaomibook/img/e.png)
 
 
 
