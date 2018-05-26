@@ -1,0 +1,13 @@
+<div class="title-hot">
+    <h2>{{ad_name}}</h2>
+
+</div>
+<ul class="hot-list">
+    {{#each data.data}}
+    <li>
+        <div class="imgbox"><img class="lazy" data-original="{{cover}}" alt=""></div>
+
+        <p>{{title}}</p>
+    </li>
+    {{/each}}
+</ul>

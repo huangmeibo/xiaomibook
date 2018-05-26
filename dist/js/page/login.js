@@ -1,0 +1,1 @@
+"use strict";define(["jquery"],function(r){var s="";r("#loginBtn").on("click",function(){var t=r("#user").val(),i=r("#pwd").val();""===r.trim(t)?s="请输入账号":""===r.trim(i)&&(s="请输入密码");var n={user:t,pwd:i};s?r(".tip").html(s):r.ajax({url:"/loginUser",data:n,type:"post",async:!1,success:function(t){0==t?history.go(-1):1==t&&r(".tip").html("账号密码输入错误")}})})});
